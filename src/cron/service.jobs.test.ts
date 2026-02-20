@@ -160,7 +160,7 @@ describe("applyJobPatch", () => {
     expect(job.delivery).toEqual({ mode: "webhook", to: "https://example.invalid/trim" });
   });
 
-  it("rejects Telegram delivery with invalid target (slash delimiter)", () => {
+  it("rejects Telegram delivery with invalid target (chatId/topicId format)", () => {
     const job = createIsolatedAgentTurnJob("job-telegram-invalid", {
       mode: "announce",
       channel: "telegram",
@@ -168,20 +168,28 @@ describe("applyJobPatch", () => {
     });
 
     expect(() => applyJobPatch(job, { enabled: true })).toThrow(
-      'Invalid Telegram delivery target "-10012345/6789". Use colon (:) as delimiter, not slash or other characters. Valid formats: -1001234567890, -1001234567890:123, -1001234567890:topic:123',
+      'Invalid Telegram delivery target "-10012345/6789". Use colon (:) as delimiter for topics, not slash. Valid formats: -1001234567890, -1001234567890:123, -1001234567890:topic:123, @username, https://t.me/username',
     );
   });
 
-  it("rejects Telegram delivery with other invalid characters", () => {
-    const job = createIsolatedAgentTurnJob("job-telegram-invalid-space", {
+  it("accepts Telegram delivery with t.me URL", () => {
+    const job = createIsolatedAgentTurnJob("job-telegram-tme", {
       mode: "announce",
       channel: "telegram",
-      to: "-10012345 6789",
+      to: "https://t.me/mychannel",
     });
 
-    expect(() => applyJobPatch(job, { enabled: true })).toThrow(
-      'Invalid Telegram delivery target "-10012345 6789". Use colon (:) as delimiter, not slash or other characters. Valid formats: -1001234567890, -1001234567890:123, -1001234567890:topic:123',
-    );
+    expect(() => applyJobPatch(job, { enabled: true })).not.toThrow();
+  });
+
+  it("accepts Telegram delivery with t.me URL (no https)", () => {
+    const job = createIsolatedAgentTurnJob("job-telegram-tme-no-https", {
+      mode: "announce",
+      channel: "telegram",
+      to: "t.me/mychannel",
+    });
+
+    expect(() => applyJobPatch(job, { enabled: true })).not.toThrow();
   });
 
   it("accepts Telegram delivery with valid target (plain chat id)", () => {

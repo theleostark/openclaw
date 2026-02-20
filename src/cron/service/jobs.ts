@@ -83,15 +83,19 @@ export function assertSupportedJobSpec(job: Pick<CronJob, "sessionTarget" | "pay
   }
 }
 
-const INVALID_TELEGRAM_TARGET_CHARS = ["/", "\\", " ", ",", ";"];
+const TELEGRAM_TME_URL_REGEX = /^https?:\/\/t\.me\/|t\.me\//i;
+const TELEGRAM_SLASH_TOPIC_REGEX = /^-?\d+\/\d+$/;
 
 function validateTelegramDeliveryTarget(to: string | undefined): string | undefined {
   if (!to) {
     return undefined;
   }
-  const hasInvalidChar = INVALID_TELEGRAM_TARGET_CHARS.some((char) => to.includes(char));
-  if (hasInvalidChar) {
-    return `Invalid Telegram delivery target "${to}". Use colon (:) as delimiter, not slash or other characters. Valid formats: -1001234567890, -1001234567890:123, -1001234567890:topic:123`;
+  const trimmed = to.trim();
+  if (TELEGRAM_TME_URL_REGEX.test(trimmed)) {
+    return undefined;
+  }
+  if (TELEGRAM_SLASH_TOPIC_REGEX.test(trimmed)) {
+    return `Invalid Telegram delivery target "${to}". Use colon (:) as delimiter for topics, not slash. Valid formats: -1001234567890, -1001234567890:123, -1001234567890:topic:123, @username, https://t.me/username`;
   }
   return undefined;
 }
