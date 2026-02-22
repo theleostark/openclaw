@@ -1,4 +1,4 @@
-import type { PluginRuntime } from "openclaw/plugin-sdk";
+import type { PluginRuntime, SsrFPolicy } from "openclaw/plugin-sdk";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import "./test-mocks.js";
 import { downloadBlueBubblesAttachment, sendBlueBubblesAttachment } from "./attachments.js";
@@ -17,6 +17,7 @@ const fetchRemoteMediaMock = vi.fn(
   async (params: {
     url: string;
     maxBytes?: number;
+    ssrfPolicy?: SsrFPolicy;
     fetchImpl?: (input: RequestInfo | URL, init?: RequestInit) => Promise<Response>;
   }) => {
     const fetchFn = params.fetchImpl ?? fetch;
@@ -119,6 +120,32 @@ describe("downloadBlueBubblesAttachment", () => {
     expect(mockFetch).toHaveBeenCalledWith(
       expect.stringContaining("/api/v1/attachment/att-123/download"),
       expect.objectContaining({ method: "GET" }),
+    );
+  });
+
+  it("allows trusted BlueBubbles server host in SSRF policy", async () => {
+    const mockBuffer = new Uint8Array([1, 2, 3]);
+    mockFetch.mockResolvedValueOnce({
+      ok: true,
+      headers: new Headers({ "content-type": "image/png" }),
+      arrayBuffer: () => Promise.resolve(mockBuffer.buffer),
+    });
+
+    await downloadBlueBubblesAttachment(
+      { guid: "att-private-host" },
+      {
+        serverUrl: "http://192.168.64.6:1234",
+        password: "test-password",
+      },
+    );
+
+    expect(fetchRemoteMediaMock).toHaveBeenCalledWith(
+      expect.objectContaining({
+        ssrfPolicy: {
+          allowedHostnames: ["192.168.64.6"],
+          hostnameAllowlist: ["192.168.64.6"],
+        },
+      }),
     );
   });
 
