@@ -568,6 +568,14 @@
       "destination": "/experiments/research/memory"
     },
     {
+      "source": "/research/video-prompt-system",
+      "destination": "/experiments/research/video-prompt-system"
+    },
+    {
+      "source": "/research/video-prompts-3110hx3ygp0",
+      "destination": "/experiments/research/video-prompts-3110hx3ygp0"
+    },
+    {
       "source": "/rpc",
       "destination": "/reference/rpc"
     },
@@ -1266,6 +1274,8 @@
                   "experiments/plans/cron-add-hardening",
                   "experiments/plans/group-policy-hardening",
                   "experiments/research/memory",
+                  "experiments/research/video-prompt-system",
+                  "experiments/research/video-prompts-3110hx3ygp0",
                   "experiments/proposals/model-config"
                 ]
               }

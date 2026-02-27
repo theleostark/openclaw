@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "videoId": "3110hx3ygp0",
+  "slug": "video-prompts-3110hx3ygp0",
+  "source": {
+    "url": "https://youtu.be/3110hx3ygp0",
+    "title": "I've spent 5 BILLION tokens perfecting OpenClaw...",
+    "channel": "Matthew Berman",
+    "durationSeconds": 2400,
+    "webpageUrl": "https://www.youtube.com/watch?v=3110hx3ygp0"
+  },
+  "run": {
+    "generatedAt": "2026-02-27T14:24:10.024Z",
+    "mode": "metadata-only",
+    "tooling": {
+      "summarize": "0.10.0",
+      "ytdlp": "2026.02.21",
+      "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+      "tesseract": "tesseract 5.5.2"
+    }
+  },
+  "artifacts": {
+    "prompts": "docs/experiments/research/data/3110hx3ygp0/prompts.json",
+    "frames": "docs/experiments/research/data/3110hx3ygp0/frames.json",
+    "rawLocalDir": ".local/video-research/3110hx3ygp0"
+  },
+  "sources": {
+    "transcript": {
+      "summarizeFile": ".local/video-research/3110hx3ygp0/transcript.raw.json",
+      "normalizedFile": ".local/video-research/3110hx3ygp0/transcript.normalized.json",
+      "lineCount": 2198,
+      "wordCount": 7653
+    },
+    "canonical": [
+      {
+        "url": "http://bit.ly/3WLNzdV",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://bit.ly/44TC45V",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://bit.ly/4aBQwo1",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://bit.ly/4kFhajz",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://clickhubspot.com/a5227e",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://forwardfuture.ai",
+        "sourceKind": "article",
+        "status": "ok",
+        "charCount": 10040
+      },
+      {
+        "url": "https://gist.github.com/mberman84/663a7eba2450afb06d3667b8c284515b",
+        "sourceKind": "gist",
+        "status": "ok",
+        "gistId": "663a7eba2450afb06d3667b8c284515b",
+        "fileCount": 1
+      },
+      {
+        "url": "https://gist.github.com/mberman84/885c972f4216747abfb421bfbddb4eba",
+        "sourceKind": "gist",
+        "status": "ok",
+        "gistId": "885c972f4216747abfb421bfbddb4eba",
+        "fileCount": 1
+      },
+      {
+        "url": "https://tools.forwardfuture.ai",
+        "sourceKind": "article",
+        "status": "ok",
+        "charCount": 15041
+      },
+      {
+        "url": "https://www.instagram.com/matthewberman_ai",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.tiktok.com/@matthewberman_ai",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://x.com/forwardfuture",
+        "sourceKind": "other",
+        "status": "skipped"
+      },
+      {
+        "url": "https://x.com/matthewberman",
+        "sourceKind": "other",
+        "status": "skipped"
+      }
+    ],
+    "hotspots": {
+      "file": ".local/video-research/3110hx3ygp0/hotspots.json",
+      "count": 43
+    }
+  },
+  "stats": {
+    "promptCount": 51,
+    "frameCount": 43,
+    "canonicalSourceCount": 4
+  }
+}

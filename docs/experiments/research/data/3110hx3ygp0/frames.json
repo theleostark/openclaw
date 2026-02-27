@@ -1,0 +1,525 @@
+{
+  "version": "1.0",
+  "videoId": "3110hx3ygp0",
+  "generatedAt": "2026-02-27T14:24:10.024Z",
+  "frames": [
+    {
+      "id": "chapter-001",
+      "source": "chapter",
+      "reason": "Intro",
+      "seconds": 0,
+      "timestamp": "00:00:00",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-001.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-001.txt",
+      "ocrSnippet": "CRM System Vv | | oY == J a _l =",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-002",
+      "source": "chapter",
+      "reason": "Email Management",
+      "seconds": 16,
+      "timestamp": "00:00:16",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-002.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-002.txt",
+      "ocrSnippet": "CRM System Vv | 4 & € == Vv — J a ts =",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-003",
+      "source": "chapter",
+      "reason": "Sponsor",
+      "seconds": 320,
+      "timestamp": "00:05:20",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-003.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-003.txt",
+      "ocrSnippet": "= Confidence scoring (0.0-1.0): below 90% triggers human review = Rescore comand for rubric updates: replay-score.js —apply-tabels 4, Two-tayer Gaait Labels: w\"Score labels: one per thread, set during initial scoring = Stage labels: one per thread, updated as deol progresses = Stages nap 1:1 to Hubspot pipeline 5. Stoge tracking: = State machine validates transitions = Full audit trail in stoge-transitions table = Huspot drift detection on every refresh = Skipped for non-sponsor and public domai",
+      "matchedPromptIds": [
+        "prompt-018"
+      ]
+    },
+    {
+      "id": "chapter-004",
+      "source": "chapter",
+      "reason": "Inbox Pipeline",
+      "seconds": 422,
+      "timestamp": "00:07:02",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-004.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-004.txt",
+      "ocrSnippet": "AD ’ v",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-005",
+      "source": "chapter",
+      "reason": "Multiple Prompt Versions (HUGE)",
+      "seconds": 545,
+      "timestamp": "00:09:05",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-005.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-005.txt",
+      "ocrSnippet": "Sponsor Inbox Pipeline 10. min) Frontier Scan Me Vv STE = =) el",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-006",
+      "source": "chapter",
+      "reason": "MD File Breakdown",
+      "seconds": 748,
+      "timestamp": "00:12:28",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-006.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-006.txt",
+      "ocrSnippet": "Prompt to Recreate ‘Set up dual prompt stacks: a 1, Root .md files (Claude-optimized): Natural language, explain the \"why\" behind rules = Avoid ALL-CAPS urgency markers Use commas, colons, periods instead of en dashes 2. codex-pronpts/ directory (GPT-optimized) : = Use MHL tags for structure  ALL-CAPS for enphasis is fine = More explicit hierarchy a ox 3, Both stacks must contain identical operational facts: Pr a = Sane channel IDs, project IDs, file paths i ~ Sane security rules, cron standards",
+      "matchedPromptIds": [
+        "prompt-002",
+        "prompt-025",
+        "prompt-026"
+      ]
+    },
+    {
+      "id": "chapter-007",
+      "source": "chapter",
+      "reason": "Telegram Groups",
+      "seconds": 852,
+      "timestamp": "00:14:12",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-007.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-007.txt",
+      "ocrSnippet": "serge | tmacone | ee  Uewred preences—ROI.nt Notion pny nes cation itiction-ati sn Werktons docs F  Doran 02. fe stctetn  Prompt to Recreate ere tae te severe yu ropes poten ite as Et ees e bit classtiatinsCotlntat (on ony), Intarat gop 0, Restctd oedeapprov) 2 eta aaNet, ay ene al eee cry Serer = = Message pattern: confirmation message, then completion message. No play-by-play. ¥. ai =f sane op vty fon fw canto 0, nt ols ny a said = erat ity ony Dec, opiniones, dy her - modal on, cette Spey nfl",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-008",
+      "source": "chapter",
+      "reason": "CRM System",
+      "seconds": 891,
+      "timestamp": "00:14:51",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-008.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-008.txt",
+      "ocrSnippet": "Da Marita masa ri a tee aaa ai rata ra Clawd: ,4 Innovation Scout Prop... @ self-update 9:03 PM Clawd: [J Hourly Digest -1 item ... @® earnings Sun et | ey Clawd: All 9 locked in: Tue 2/24 —... 3 ai} @ franalysis Sun, Clawd: Hourly Notification Digest... @® food-journal Sat Clawd: How is your stomach fell... @® video-research Thu Clawd: Iwrite it down Wit persist...",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-009",
+      "source": "chapter",
+      "reason": "Meeting Intelligence",
+      "seconds": 1045,
+      "timestamp": "00:17:25",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-009.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-009.txt",
+      "ocrSnippet": "2, ootobSENISOLEEIAL node): “contacts: name, enail, company, role, priority, relationship, score = interactions! meetings, enafls, cats with tinestoaps = contact-context: tineline entries with 76B-din vector enbeddings Bie eet eee Lea alae nal slioascies Ege ges opneedfcd] Fatal (rane ioe” sama (att cnaees] = Geeting-action-iteast with assignee, ownership fag, Todoist Link men piesn Reiaees Meee ey 3: Natural Language interface: “Intent detector supporting 16 query types ‘ = Integration with Tel",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-010",
+      "source": "chapter",
+      "reason": "Knowledge Base",
+      "seconds": 1125,
+      "timestamp": "00:18:45",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-010.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-010.txt",
+      "ocrSnippet": "Meeting Intelligence Vv zal check Vv Tatton BE Poll Vv te enn ~ “> Fae = x a TEE Tease S a a Clee ¥.",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-011",
+      "source": "chapter",
+      "reason": "Content Pipeline",
+      "seconds": 1251,
+      "timestamp": "00:20:51",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-011.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-011.txt",
+      "ocrSnippet": "Knowledge Base (RAG) Preigat Vv : : ” Vv | i a — EEE]",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-012",
+      "source": "chapter",
+      "reason": "Security (HUGE)",
+      "seconds": 1313,
+      "timestamp": "00:21:53",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-012.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-012.txt",
+      "ocrSnippet": "9. Content Pipeline Video Idea Pipeline f ) ‘When Matt mentions a \"potential video idea” in Siack, the system: F& = 1. Reads the full Slack thread context 2. Queries the knowledge base for related content 3, Searches X/Twitter for supplementary discourse 4, Creates a structured Asana card in the VidedPipeline project 5. Posts completion back in the Slack thread Video Pitch Dedup (Hard Gate) Before any video pitch is sent, a semantic similarity search runs against the pitch database. If any exist",
+      "matchedPromptIds": [
+        "prompt-008",
+        "prompt-009",
+        "prompt-011",
+        "prompt-012"
+      ]
+    },
+    {
+      "id": "chapter-013",
+      "source": "chapter",
+      "reason": "Cron Jobs",
+      "seconds": 1489,
+      "timestamp": "00:24:49",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-013.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-013.txt",
+      "ocrSnippet": "Security Architecture (6 Layers) Layer ti Network Gateway: loopback  token auth Layer 2i Chowne Access Allowtists, BM pairing, no wildeards Layer 3: Prompt Injection =e Sanitizer  Frontier Scanner  Risk Markers 1 o 2 € Layer 4: Secret Protection Outbound colacoon, PII Filter, pre-commit: hook Layer 5: Rontborng Nightly review, security council, health checks Layer 6: Data Protection Encrypted backups, permissions, SSRF blocking",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-014",
+      "source": "chapter",
+      "reason": "Memory",
+      "seconds": 1565,
+      "timestamp": "00:26:05",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-014.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-014.txt",
+      "ocrSnippet": "Diagram: 12-cron-automation.excalidraw Prompt to Recreate  Set up cron autonation: @  1, Central cron log database: = log-start.js: record job start, return run x0 = log-end.js: record completion with status, duration, sumary = query.js: query history by job, status, date = should-run. js: idempotency check (skip if already succeeded) = checkpoint. js: step-level progress tracking = cleanup-state.s: auto-clean jobs stuck \"running\" =2h ‘  2. Cron wrapper (cron-wrapper.sh): F, a = Signal traps (SI",
+      "matchedPromptIds": [
+        "prompt-015",
+        "prompt-028"
+      ]
+    },
+    {
+      "id": "chapter-015",
+      "source": "chapter",
+      "reason": "Notification Batching",
+      "seconds": 1675,
+      "timestamp": "00:27:55",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-015.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-015.txt",
+      "ocrSnippet": "Weekly Synthesis Every Sunday at 3:40am PST, a cron job: t 1, Reads daily notes for the past week = 2. Reviews meaningful build and behavior changes EF i 3. Distils durable preferences and lessons into MEMORY.md 4. Preserves raw dally notes as permanent record Heartbeat State renory/neartbeat-state.json tracks timestamps for periodic checks (error log, security auait, daily checks). Diagram: 13-memory-system excalidraw Prompt to Recreate 5 Build 2 file-based nenory system: e 1. Daily notes (neno",
+      "matchedPromptIds": [
+        "prompt-006",
+        "prompt-021",
+        "prompt-030"
+      ]
+    },
+    {
+      "id": "chapter-016",
+      "source": "chapter",
+      "reason": "Financial Tracking",
+      "seconds": 1739,
+      "timestamp": "00:28:59",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-016.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-016.txt",
+      "ocrSnippet": "Notification Batching ‘every wey Se =i",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-017",
+      "source": "chapter",
+      "reason": "Usage & Cost Tracking",
+      "seconds": 1780,
+      "timestamp": "00:29:40",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-017.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-017.txt",
+      "ocrSnippet": "Confidentiality Financial data is strictly confidential. Only shared with Matt directly (OM or financials topic 2774). Business meta-analysis references financial heath directionally (\"revenue trending up\"), never specific dollar amounts. > a 4 Diagram: 16-financial-tracking excalidraw : “i Prompt to Recreate suite financial tracking: 1. CSV sport pipeline: = Autordetect file type (transactions, accounts) = Import into SOLste with proper schena ~ Generate PEL and Balance Sheet from transactions ",
+      "matchedPromptIds": [
+        "prompt-013",
+        "prompt-019",
+        "prompt-027",
+        "prompt-029"
+      ]
+    },
+    {
+      "id": "chapter-018",
+      "source": "chapter",
+      "reason": "Full Logging Infrastructure",
+      "seconds": 1861,
+      "timestamp": "00:31:01",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-018.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-018.txt",
+      "ocrSnippet": "@ carings sun Beene Bes | reel | CaUls | Input Tokens | Output Tokens | Cost | ieceeeece nee | ee | eee | ene | ce ® stanaysis sun H ‘Clawd: Hourly Notification Digest... | Opus 4.6 (gateway) | 715 | 61.7 | 13K | $121.17 ' @ ‘04-Journal sat | Opus 4.6 (agents Sok) | 178 | 733K | 36« 1 Oo Clawd: is your stome ! Vida Pesta Neg | Sonnet 4.6 (gateway) | 1,049 | 45.64 | 93k i \\ @ cee research ii | Sonnet 4.5 (gateway) | 848 | 24.54 | sz | $3.68 Cad: Lt down so persist. | | PT-5.3 codex | 14 | seaK cs",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-019",
+      "source": "chapter",
+      "reason": "OAuth Loophole (HUGE)",
+      "seconds": 1912,
+      "timestamp": "00:31:52",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-019.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-019.txt",
+      "ocrSnippet": "Full Logging Infrastructure andl ey | Unified Stream loge pial getewoy_leg_tines {7 “Ley Rotation \"4 Hob",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-020",
+      "source": "chapter",
+      "reason": "Separating Personal/Work",
+      "seconds": 1975,
+      "timestamp": "00:32:55",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-020.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-020.txt",
+      "ocrSnippet": "'* config/telegram. json : Telegram constants extracted from 10+ shell scripts into one config file Diagram: 19-agents-sdk.excalidraw Prompt to Recreate Migrate to the Agents SDK: a 1. Create shared/anthropic-agent-stk.js: sThesolve Oauth token fon CLAUDE” CODE_OAUTH_TOKEN env var - Startup smoke test on first use (AUTH_OK canary) wrap atl anthropsesealts with auto-retey and’ lopoing = Support prompt eg for repeated systen prompts 2. Create shared/Untrouter.js: cTinitied cattLte() interface = hu",
+      "matchedPromptIds": [
+        "prompt-003",
+        "prompt-020",
+        "prompt-022",
+        "prompt-024",
+        "prompt-031"
+      ]
+    },
+    {
+      "id": "chapter-021",
+      "source": "chapter",
+      "reason": "Errors & Self-Improvement",
+      "seconds": 2069,
+      "timestamp": "00:34:29",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-021.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-021.txt",
+      "ocrSnippet": "Separating Personal from Work Confidential CM Only) SA Financials, CRM contacts, daily notes, personal emails | ste | _ MEMORY mel Loaded in DMs only",
+      "matchedPromptIds": [
+        "prompt-004"
+      ]
+    },
+    {
+      "id": "chapter-022",
+      "source": "chapter",
+      "reason": "Cost Savings",
+      "seconds": 2159,
+      "timestamp": "00:35:59",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-022.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-022.txt",
+      "ocrSnippet": "Diagram: 23-errors-selt-improvement.excalidraw Prompt to Recreate Build self-improvement systems: o 1, .Vearnings/ directory with self-inproving-agent skill: = LEARWINGS.d, ERRORS.nd, FEATURE_REQUESTS.nd = PostToolWse hook for automatic error detection = Pattern extraction from corrections 2. Three automated councils (daily cron): = Platform health: cron, code, tests, prompts, storage, CRM integrity = Security: four-perspective analysis, automated checks  model review = Innovation scout: propose",
+      "matchedPromptIds": [
+        "prompt-023"
+      ]
+    },
+    {
+      "id": "chapter-023",
+      "source": "chapter",
+      "reason": "Backup & Recovery",
+      "seconds": 2229,
+      "timestamp": "00:37:09",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-023.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-023.txt",
+      "ocrSnippet": "Cost Savings Local Enbesdings Model Tesing Prop Caching rowic-enbed-text ondevice Cheap models For routine tasks: Agents SDK caches Zero APE cost Expersive only For coueils repeated system prompts CalerdarAware Polling Netiicertion Batching Free Tier Usage Only poll Fathom Fewer LLM Senin feces after meetings end classieation calle and vdeo analysis,",
+      "matchedPromptIds": [
+        "prompt-010"
+      ]
+    },
+    {
+      "id": "chapter-024",
+      "source": "chapter",
+      "reason": "Health Pipeline",
+      "seconds": 2272,
+      "timestamp": "00:37:52",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-024.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-024.txt",
+      "ocrSnippet": "Backup & Recovery Database Backup Hourly) Tittordigcover Upload to Rotate ieep Au Bles | >| PS Set | >| Google Dive |> a v Git Syre Hourly) Pal Tiko-commt Pash to Telegcam | > [sz ]> Restore load Read, Gon OA Bowl 3 Restore to ¢ 1 Validate aie) ' ' wodtyng stl : 1 ‘ Lae ein rT)",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "chapter-025",
+      "source": "chapter",
+      "reason": "Bee Memory",
+      "seconds": 2310,
+      "timestamp": "00:38:30",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/chapter-025.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/chapter-025.txt",
+      "ocrSnippet": "Health Pipeline aap] Claude Analysis, — Apple Health Z ly health-timeline json! sv apeleconnectoris |— >] eed TSONLY eae Trend Flags  fe :",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-001",
+      "source": "keyword",
+      "reason": "Keyword hit: sponsor",
+      "seconds": 61,
+      "timestamp": "00:01:01",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-001.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-001.txt",
+      "ocrSnippet": "Sponsorship inquiry for Matthew Berman (GRBEED inbox x sponsorrtow 38 x a = Summarize this email  Matthew Berman 219PM(Bminutesago) yy ©  tome =  Hi Matt,  ‘1m Sarah, Head of Partnerships at NovaBridge. We build workflow automation tools for teams that are integrating Al into thelr operations, things tke  prompt management, model routing, and usage analytics dashboards.  We recent closed our Sees Aad re oking lo get n font of morta foninedmudonces, Your chanel ame up oa op pk fru teal.  Would lo",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-002",
+      "source": "keyword",
+      "reason": "Keyword hit: score",
+      "seconds": 124,
+      "timestamp": "00:02:04",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-002.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-002.txt",
+      "ocrSnippet": "Sponsorship inquiry for Matthew Berman (GRBHID Inbox x sponsoriiow 38 x Se = Summarize this email  Matthew Berman 2:19PM (10 minutes ago) yy © ©  tome ~  HiMat,  ‘1m Sarah, Head of Partnerships at NovaBridge. We build workflow automation tools for teams that are integrating A! into thelr operations, things ike  prompt management, model routing, and usage analytics dashboards.  We recently closed our Series A and are looking to get infront of more Al-focused audiences. Your channel came up as a t",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-003",
+      "source": "keyword",
+      "reason": "Keyword hit: score",
+      "seconds": 164,
+      "timestamp": "00:02:44",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-003.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-003.txt",
+      "ocrSnippet": "Clawd a crm Al eens) EB © 156 messages Reply WW LONELL Ue laveI (ey, SpOrSUI/INgH OU, sNLEHTA! Ups) Hf General 8:33AM and/or include scoring feedback to improve future classifications. lawd: Done, Rewrote the out... 2) 12:03 PM @® crm 20 PM Clawd Reply y Clawe: score of S8.and the fa, tlm Low-confidence classification for review Sender: Matthew Berman ® knowledge-base 11:36AM Subject: Sponsorship inquiry for Matthew Berman lawd: Saved and cross-poste... Confidence: 45% Score: 38 (low) cron-und 1",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-004",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 258,
+      "timestamp": "00:04:18",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-004.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-004.txt",
+      "ocrSnippet": "Build @ sponsor inbox pipeline: a te mutti-aceout cant monitoring:  = Cron every 20 inten via milscrefeah Js  arian Paedures  tiny beclfitts fetth storie thress for nv sender donirs 2 Ginrantins en secur  STsshioeier cists Gee (Gaba ene we  Set ena une tern eore   hessopes Tagged as review” get [ELEVATED AISA] pretix  — Never fetch/click links in emails se8 = 2. Searing with autable rubric: lg a  Shr Sarre ite mteraen shogun  2 lin dleastapa Ae Curie) Sigs eGapiy fois etna ta ord  B cerclecimel ",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-005",
+      "source": "keyword",
+      "reason": "Keyword hit: template",
+      "seconds": 294,
+      "timestamp": "00:04:54",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-005.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-005.txt",
+      "ocrSnippet": "= Confidence scoring (0.0-1.0): below 90% triggers human review E Rescore comand for rubric updates: replay-score:4s)--apply= labels i ertaner coal tabeta} ~\"score labels: one per thresd, set during initist scoring = Stage labels: one per thread, updated as deal progresses = Stages map 1:1 to MubSpot pipeline 5. Stage tracking: Erctite aacllee validetar trapsitions = Full audit trail in stage transitions table SE spetierite detection on every iretresh Sippel far peicaponsoe ae pubtle donala wend",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-006",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 424,
+      "timestamp": "00:07:04",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-006.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-006.txt",
+      "ocrSnippet": "Sponsor Inbox Pipeline Mae ReRren every 10 min) Frontier Scan - Vv So ae =) el",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-007",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 472,
+      "timestamp": "00:07:52",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-007.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-007.txt",
+      "ocrSnippet": "Sponsor Inbox Pipeline Malte ReBrean very 10 min) ‘Quarantine  Frontier Scan i Vv a FEE] Gal",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-008",
+      "source": "keyword",
+      "reason": "Keyword hit: pipeline",
+      "seconds": 540,
+      "timestamp": "00:09:00",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-008.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-008.txt",
+      "ocrSnippet": "Sponsor Inbox Pipeline 10 min) Frontier Scan Ne Vv FEE] Gama",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-009",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 693,
+      "timestamp": "00:11:33",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-009.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-009.txt",
+      "ocrSnippet": "Multiele Promet Versions Root md Files codex-prompts/ (laude Optimized) (GPT-5 Optimized) AGENTS.mc AGENTS.mch SOUL.mel SOUL. mel TOOLS.mel TOOLS. me Nightly Syne Review ipts/prompt-syne-review,)s| v",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-010",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 714,
+      "timestamp": "00:11:54",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-010.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-010.txt",
+      "ocrSnippet": "Prompt to Recreate Set up dual prompt stacks: a — Same channel IDs, project IDs, file paths be — Same learned preferences and workflow triggers 4, Nightly sync review (scripts/prompt-sync-review. js): ore",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-011",
+      "source": "keyword",
+      "reason": "Keyword hit: instructions",
+      "seconds": 743,
+      "timestamp": "00:12:23",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-011.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-011.txt",
+      "ocrSnippet": "Prompt to Recreate ‘Set up dual prompt stacks: a 1, Root .md files (Claude-optimized): = Natural language, explain the \"why\" behind rules = Avoid ALL-CAPS urgency markers ~ Use commas, colons, periods instead of em dashes 2. codex-prompts/ directory (GPT-optimized) : = Use ML tags for structure  ALL-CAPS for enphasis is fine = Wore explicit hierarchy — & 3, Both stacks must contain identical operational facts: sls a = Same channel IDs, project IDs, file paths ~ Sane security rules, cron standard",
+      "matchedPromptIds": [
+        "prompt-005"
+      ]
+    },
+    {
+      "id": "keyword-012",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 848,
+      "timestamp": "00:14:08",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-012.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-012.txt",
+      "ocrSnippet": "Sc/SECRITV-REST-ARACTICE.nd_ Sey ie Redon ean  Vocreosng-stannrnint——_Caingworktow stand Read for ang work  severe ns Day rote cinta on os wl pel tas  saison Skil doce. Lone hen tht iis voted  nama State erence data cing chee, compat spore A)  Key Rules   Nolen aE la AGENTS ten ran MEMORY HCY f~*  2  TOOLS os ae pats notdocamentatn. nse \"what te cane IOP row does Wor  ;  A ~ » perpen operon meraereerenereror or ><  ‘Source of Truth Map A 2 Topic Canonical File ; 3  Sisoent ning seacoast  esse co",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-013",
+      "source": "keyword",
+      "reason": "Keyword hit: crm",
+      "seconds": 963,
+      "timestamp": "00:16:03",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-013.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-013.txt",
+      "ocrSnippet": "CRM System aa] Eee SZ i >= Vv ] u =a",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-014",
+      "source": "keyword",
+      "reason": "Keyword hit: crm",
+      "seconds": 1008,
+      "timestamp": "00:16:48",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-014.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-014.txt",
+      "ocrSnippet": "+ CRM System oa ! | > - R= = a | [ese",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-015",
+      "source": "keyword",
+      "reason": "Keyword hit: crm",
+      "seconds": 1185,
+      "timestamp": "00:19:45",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-015.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-015.txt",
+      "ocrSnippet": "Daniel Jeffries (@Dan_Jeffries1) on X This sa ridiculous stat in ariiculous story: “The marginal cost of running an agent, had collapsed to, essentially, the cost of electricity® ‘The marginal cost of a coding agent is not even remotely close to \"the cost of electricity? These agents are absurdly expensive a Jonah 7:12 AN4 i Relevant to today's interview: https://x.com/alex_avoigt/status/2025891464748621890?s=46 =X X (formerly Twitter) =~ Alex (@alex_avoigt) on X = BMW Cancels its \"Autonomous Dr",
+      "matchedPromptIds": []
+    },
+    {
+      "id": "keyword-016",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 1370,
+      "timestamp": "00:22:50",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-016.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-016.txt",
+      "ocrSnippet": "‘+ Never exposed directly to the internet D  Weekly verification via heartbeat: Usof 1 :18769 -P-n | grep LISTEN Layer 2: Channel Access Control a ‘+ Telegram: dnPoticy: \"pairing\" (unknown senders get pairing code) | a  Telegram: groupPolicy: “atlowlist® with explicit user IDs  Slack: allowlist policy, userTokenReadonly: true ~  Never use \"s\" for allowFrom Layer 3: Prompt Injection Defense 1. Deterministic sanitizer ( shared/content-sanitizer. js ) regex-based detection of role markers, \"ignore ",
+      "matchedPromptIds": [
+        "prompt-014"
+      ]
+    },
+    {
+      "id": "keyword-017",
+      "source": "keyword",
+      "reason": "Keyword hit: prompt",
+      "seconds": 1664,
+      "timestamp": "00:27:44",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-017.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-017.txt",
+      "ocrSnippet": "Weekly Synthesis Every Sunday at 3:40am PST, a cron job: . 1. Reads daily notes for the past week = 2, Reviews meaningful build and behavior changes EF ys 3. Distills durable preferences and lessons into MEMORY.nd 4, Preserves raw daily notes as permanent record — Heartbeat State nenory/heartbeat-state. json tracks timestamps for periodic checks (error log, security audit, daily checks). Diagram: 13-memory-system.excalidraw Prompt to Recreate Build a file-based memory system: @ 1, Daily notes (m",
+      "matchedPromptIds": [
+        "prompt-016"
+      ]
+    },
+    {
+      "id": "keyword-018",
+      "source": "keyword",
+      "reason": "Keyword hit: crm",
+      "seconds": 1707,
+      "timestamp": "00:28:27",
+      "frameLocalPath": ".local/video-research/3110hx3ygp0/frames/keyword-018.jpg",
+      "ocrLocalPath": ".local/video-research/3110hx3ygp0/ocr/keyword-018.txt",
+      "ocrSnippet": "14. Notification Batching ‘A three-tier priority queue to reduce notification fatigue. f ) Tiers rc i Tier Delivery Examples Critical Immediate _Interactive buttons, system errors High Hourly batch updates, council digests, cron failures Medium Every 3 hours Routine updates, non-urgent notifications How It Works All Telegram sends route through the queue automatically via shared/telegran-delivery.js . Shell scripts use shared/queved- notity.sh . Classification rules live in contig/notitication-c",
+      "matchedPromptIds": [
+        "prompt-001",
+        "prompt-007",
+        "prompt-017"
+      ]
+    }
+  ]
+}
