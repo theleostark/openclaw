@@ -72,6 +72,8 @@
     "docs:list": "node scripts/docs-list.js",
     "docs:spellcheck": "bash scripts/docs-spellcheck.sh",
     "docs:spellcheck:fix": "bash scripts/docs-spellcheck.sh --write",
+    "research:video-prompts": "bash scripts/research/video-prompts/run.sh --url \"${VIDEO_URL:-https://youtu.be/3110hx3ygp0}\" --video-id \"${VIDEO_ID:-3110hx3ygp0}\" --slug \"${VIDEO_SLUG:-video-prompts-3110hx3ygp0}\" --mode \"${VIDEO_MODE:-metadata-only}\"",
+    "research:video-prompts:check": "node scripts/research/video-prompts/validate-pack.mjs --video-id \"${VIDEO_ID:-3110hx3ygp0}\"",
     "format": "oxfmt --write",
     "format:all": "pnpm format && pnpm format:swift",
     "format:check": "oxfmt --check",
